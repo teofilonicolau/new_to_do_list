@@ -10,6 +10,9 @@ Uma aplicação simples de gerenciamento de tarefas que permite ao usuário regi
 - ![image](https://github.com/user-attachments/assets/a9a27601-3a8f-41b0-a0b5-379d1674c49c)
 - ![image](https://github.com/user-attachments/assets/7a0ccc63-9bef-422b-afe7-6242fd1710d7)
 
+- Página:
+- https://teofilonicolau.github.io/new_to_do_list/
+
 
 
 ## Estrutura do Projeto
